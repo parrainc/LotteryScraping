@@ -34,4 +34,4 @@ for tag in numbers:
 
 
 for k, v in numbers_dict.items():
-    print(k, v)
+    print(k, "->", v)
